@@ -37,4 +37,4 @@ curl http://localhost:8080
 
 ## Resources
 
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgc/html/split/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/)
